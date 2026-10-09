@@ -57,6 +57,8 @@ Request `GET /api/games/999999` menghasilkan `404`. Body berisi `message: "Resou
 
 
 ## Cara menjalankan ulang
+
+[Collection Postman yang dapat diimpor](<../../Tugas Minggu 4/docs/postman-collection.md>) tersedia bersama laporan tugas.
 Dari root project yang memuat artisan:
 
 ```bash

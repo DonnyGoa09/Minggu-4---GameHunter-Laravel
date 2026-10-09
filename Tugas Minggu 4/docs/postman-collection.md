@@ -1,11 +1,11 @@
 # Postman collection — Tugas Minggu 4
 
-Collection ini berisi lima request GET dan 18 assertion untuk contract GameHunter. Memuat contoh response sukses dan error dari pengujian lokal.
+Collection ini menguji lima request GET, termasuk response sukses dan error. Total 18 assertion.
 
-1. Salin seluruh JSON di bawah ke file `GameHunter_Minggu_4.postman_collection.json`.
-2. Buka Postman, klik Import, lalu pilih file tersebut.
-3. Jalankan server Laravel lokal. Variabel `base_url` sudah memakai `http://127.0.0.1:8000` dan No Auth.
-4. Jalankan List Games terlebih dahulu, atau Run seluruh collection secara berurutan.
+1. Simpan JSON di bawah sebagai `GameHunter_Minggu_4.postman_collection.json`.
+2. Di Postman, klik Import dan pilih file itu.
+3. Jalankan Laravel di `http://127.0.0.1:8000`. Collection memakai No Auth.
+4. Jalankan List Games dahulu, lalu request lainnya.
 
 | Request | Hasil yang diperiksa |
 | --- | --- |
